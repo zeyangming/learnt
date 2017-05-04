@@ -1,11 +1,33 @@
-this is the new start of my github travelling.
-I will to try to list all my effort on my way.
-
+---
 ##### This is my first readme.md
-**  first week  **
-- how to read the book
-- how be a good man
 
+* first week *
+##### Why Github
+- 版本控制
+- 团队协作
+- 原声环境
 
+##### 提交作业的三种方式
+- 网页端（Web）
+- 客户端（GUI)
+- 命令行 （CLI）
 
+##### 开智学堂作业提交&互评指南
+- 如何在GitHub 网页上提交作业或者互评
+- - 新建.md 文件或者选择.md文件写作业
+- - 查看作业版本
+- - 提交作业到自己的仓库的issues & 上游仓库的issues
+- - 修改同学作业以及批注
+
+#### 如何在GitHub客户端提交作业以及互评
+- 克隆自己的仓库&同学的仓库
+- 本地写作业&提交
+- 本地修改同学的作业
+- 提交作业到自己仓库的issues&上游仓库的issues.
+
+#### 如何用命令行提交作业以及互评
+- 克隆值的仓库&同学仓库
+- 用命令行在本地写作业&提交
+- 用命令行在本地修改同学的作业
+- 提交作业到自己仓库的issues&上游仓库的issues
 
