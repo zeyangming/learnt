@@ -1,7 +1,9 @@
 ---
+---
+
 ##### This is my first readme.md
 
-* first week *
+**first week**
 ##### Why Github
 - 版本控制
 - 团队协作
@@ -30,4 +32,11 @@
 - 用命令行在本地写作业&提交
 - 用命令行在本地修改同学的作业
 - 提交作业到自己仓库的issues&上游仓库的issues
+
+
+
+
+#### 开始我的github的学习
+
+我相信自己可以战胜困难
 
